@@ -1,3 +1,4 @@
 # OnlineCinemaTickets
 
-[this is the deployed ](https://eticketservice.azurewebsites.net)https://eticketservice.azurewebsites.net
+#this is the deployed link
+https://eticketservice.azurewebsites.net
